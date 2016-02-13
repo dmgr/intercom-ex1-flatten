@@ -6,15 +6,11 @@ A flatten function that flattens an array of arbitrarily nested arrays of intege
 
 Add this line to your application's Gemfile:
 
-    gem 'intercom-ex1-flatten'
+    gem 'intercom-ex1-flatten', git: 'https://github.com/dmgr/intercom-ex1-flatten.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install intercom-ex1-flatten
 
 ## Usage
 
